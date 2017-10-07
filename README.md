@@ -1,8 +1,8 @@
 # tcpc0n
 # TCP Connection Client
 
-# INSTALLATION
-# Linux
+* INSTALLATION
+* Linux
 Debian based systems :
 
 sudo apt-get install python-pip
