@@ -11,7 +11,7 @@ cd /setup
 
 sudo pip install -r requirements.txt 
 
-edit tcpc0n.py to fit your needs(host,port,data to send)
+edit tcpc0n.py to fit your needs (host,port,data to send)
 
 === Usage ===
 
