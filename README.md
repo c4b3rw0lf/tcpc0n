@@ -1,5 +1,5 @@
 # tcpc0n
-# TCP Connection Client
+# TCP Client
 
 === INSTALLATION ===
 

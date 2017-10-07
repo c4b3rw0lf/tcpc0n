@@ -4,7 +4,7 @@ from pyfiglet import Figlet
 f = Figlet(font='slant')
 print f.renderText('tcpc0n')
 
-print '##### TCP Connection Client #####'
+print '##### TCP Client #####'
 print '##### By c4b3rw0lf #####'
 
 import socket 
