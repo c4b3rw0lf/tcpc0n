@@ -3,7 +3,7 @@
 
 === INSTALLATION ===
 
-=== Debian ===
+== Debian ==
 
 sudo apt-get install python-pip
 
